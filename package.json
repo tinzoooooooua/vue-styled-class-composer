@@ -1,0 +1,36 @@
+{
+  "name": "vue-styled-class-composer",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinzoooooooua/vue-styled-class-composer.git"
+  },
+  "keywords": [
+    "styled-class-composer",
+    "class composer",
+    "class-composer",
+    "style modules",
+    "style-modules",
+    "css modules",
+    "css-modules",
+    "vue modules",
+    "vue-modules",
+    "vue composition",
+    "vue-composition",
+    "vue setup",
+    "vue-setup",
+    "nuxt",
+    "vue"
+  ],
+  "author": "ByteBrewers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tinzoooooooua/vue-styled-class-composer/issues"
+  },
+  "homepage": "https://github.com/tinzoooooooua/vue-styled-class-composer#readme"
+}
