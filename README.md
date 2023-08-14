@@ -1,5 +1,7 @@
 # vue-styled-class-composer
 
+---
+
 ## CSS Modules
 
 First of all, we need to understand what css modules are in the vue environment. A CSS Module is a CSS file in which all class names and animation names are scoped locally by default.

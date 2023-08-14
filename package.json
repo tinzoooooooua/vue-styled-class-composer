@@ -1,6 +1,6 @@
 {
   "name": "vue-styled-class-composer",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -22,8 +22,8 @@
     "vue-modules",
     "vue composition",
     "vue-composition",
-    "vue setup",
-    "vue-setup",
+    "vue setup css",
+    "vue-setup-css",
     "nuxt",
     "vue"
   ],
